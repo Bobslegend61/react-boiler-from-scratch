@@ -1,1 +1,12 @@
-A React boiler plate from scratch without using the create-react-app cli
+### A React boiler plate from scratch without using the create-react-app cli
+
+## Use as a boiler
+
+```
+git clone git@github.com:Bobslegend61/react-boiler-from-scratch.git
+
+npm install
+
+npm start
+
+```
