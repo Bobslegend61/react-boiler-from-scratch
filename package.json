@@ -1,0 +1,38 @@
+{
+  "name": "react-boiler-from-scratch",
+  "version": "1.0.0",
+  "description": "A react boiler from scratch without using the create-react-app cli",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development --open --hot",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bobslegend61/react-boiler-from-scratch.git"
+  },
+  "keywords": [
+    "create-react-app",
+    "react"
+  ],
+  "author": "Alabi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bobslegend61/react-boiler-from-scratch/issues"
+  },
+  "homepage": "https://github.com/Bobslegend61/react-boiler-from-scratch#readme",
+  "dependencies": {
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "html-webpack-plugin": "^3.1.0",
+    "webpack": "^4.4.1",
+    "webpack-cli": "^2.0.13",
+    "webpack-dev-server": "^3.1.1"
+  }
+}
