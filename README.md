@@ -3,7 +3,7 @@
 ## Use as a boiler
 
 ```
-git clone git@github.com:Bobslegend61/react-boiler-from-scratch.git
+git clone https://github.com/Bobslegend61/react-boiler-from-scratch.git
 
 npm install
 
